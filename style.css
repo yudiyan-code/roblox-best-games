@@ -97,7 +97,9 @@ button:hover {
 }
 
 ul {
-    margin: 50px;
+    display: block;
+    margin: 40px;
+    padding: 10px;
     font-size: 17px;
     text-indent: 37px;
 }
